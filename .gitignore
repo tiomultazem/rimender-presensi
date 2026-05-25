@@ -1,0 +1,11 @@
+.env
+app.py
+context.txt
+crawler.py
+nurul.txt
+list.txt
+pegawai.json
+requirements.txt
+session.json
+token.txt
+wildan.txt
