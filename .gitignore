@@ -1,2 +1,8 @@
 *
+.env
+session.json
+pegawai.json
+auth_info_baileys/
+node_modules/
+__pycache__/
 !extras.ptk
